@@ -1,0 +1,51 @@
+.fjgao{
+    height: 600px;
+}
+.fjbox{
+    width: 100%;
+}
+.fj{
+    height: 650px;
+    margin:20px auto;
+}
+.fjbt div a{
+    color: black;
+    font-weight: bold;
+}
+.fjtext{
+    overflow: hidden;
+    text-indent: 2em;
+    margin-top: 20px;
+    width:810px;
+}
+.fjtextbox{
+    margin: 20px 6px 0 0;
+    width: 260px;
+}
+.fjtextboxtext{
+    margin-top: 10px;
+    font-size: 12px;
+}
+.fjtextboximg a{
+    width:260px;
+    height: 160px;
+    background-size: 100% 100%;
+    background-image: url(../imager/fj1.jpg);
+    display: block;
+    position: relative;
+}
+.fjtextboximg .fjtextboximgb{
+    background-image: url(../imager/fj2.jpg);
+}
+.fjtextboximgct{
+    width: 255px;
+    height:20px;
+    font-size: 12px;
+    line-height: 20px;
+    color: #fff;
+    padding-left: 5px;
+    position: absolute;
+    bottom: 0;
+    background: black;
+    opacity: 0.8;
+}

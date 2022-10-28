@@ -1,0 +1,72 @@
+.aboutbox{
+    width: 100%;
+    margin-top: 20px;
+}
+.about,.aboutlf,.aboutrg{
+    height: 390px;
+}
+.aboutlf{
+    width: 370px;
+}
+.aboutlf .aboutbt{
+    width: 370px;
+    height:50px;
+}
+.aboutbtlf,.aboutrgbtlf,.fjbttext{
+    margin-left: 10px;
+    font-size:18px;
+    font-weight: bold;
+    position: relative;
+}
+.aboutlf .aboutbtrg a{
+    font-weight: bold;
+    color: black;
+}
+.aboutlftextimg{
+    width: 370px;
+    height:130px ;
+    background-size: 100% 100%;
+    background-image: url(../imager/about1.jpg)
+}
+.aboutlftextwb{
+    margin-top: 20px;
+    font-size: 14px;
+    line-height: 20px;
+}
+.aboutlftextwb a{
+    font-weight: bold;
+    color: black;
+}
+.aboutrg,.aboutrgbt{
+    width:500px;
+}
+.aboutrgbox{
+    overflow: hidden;
+    margin-top: 20px;
+}
+.aboutrgbtrg a{
+    font-weight: bold;
+    color: black;
+}
+.aboutrgboximg{
+    width: 190px;
+    height: 85px;
+    background-size: 100% 100%;
+    background-image: url(../imager/about2.jpg);
+}
+.aboutrgboxtext a{
+    display: block;
+    color: black;
+    font-size: 12px;
+    margin-left: 10px;
+    line-height: 22px;
+}
+.aboutrgboxtext a:hover{
+    color: #d05313;
+}
+.aboutrgboxtime span{
+    display: block;
+    font-size: 12px;
+    color: black;
+    line-height: 22px;
+}

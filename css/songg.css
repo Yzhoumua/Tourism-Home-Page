@@ -1,0 +1,152 @@
+.songgbox{
+    height: 500px;
+    margin-top:30px;
+}
+.songgwa{
+    
+    width:275px;
+    height: 450px;
+}
+.songgjs{
+    width: 800px;
+}
+.songgbt::before{
+    content: " ";
+    display: block;
+    position: absolute;
+    top:40px;
+    left:25px;
+    width: 5px;
+    height: 20px;
+    background-color: gold;
+}
+.songgbt{
+    padding:25px 0 0 40px;
+    background:#036e26 ;
+    font-weight: bold;
+    color: #fff;
+    position: relative;
+    font-size: 24px;
+}
+.songgimg{
+    height: 80px;
+}
+.songgwa div img{
+    width: 275px;
+   height:80px;
+}
+.songgbtabox{
+    width: 275px;
+    height: 315px;
+    background: #f3f1f2;
+}
+.songgbta{
+    padding-left: 27px;
+    padding-top:10px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.songgbtba,.songgbtc,.songgbtd,.songgbte{
+    position: relative;
+}
+.songgbtc::before{
+    content: " ";
+    display: block;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left:9px;
+    top: 7px;
+    background-size: 100% 100%;
+    background-image: url(../imager/phone.jpg);
+}
+.songgbtd::before{
+    content: " ";
+    display: block;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left:9px;
+    top: 5px;
+    background-size: 100% 100%;
+    background-image: url(../imager/zj.jpg);
+}
+.songgbte::before{
+    content: " ";
+    display: block;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left:9px;
+    top: 5px;
+    background-size: 100% 100%;
+    background-image: url(../imager/yx.jpg);
+}
+.songgbtba::before{
+    content: " ";
+    display: block;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: -20px;
+    top: 7px;
+    background-size: 100% 100%;
+    background-image: url(../imager/wz.jpg);
+}
+.songgbtb,.songgbtc,.songgbtd,.songgbte{
+    margin-top:10px;
+    padding-left:30px;
+    line-height: 30px;
+}
+
+.songgb{
+    position: relative;
+    width: 800px;
+    height: 40px;
+    border-bottom: solid 4px #f3f1f2;
+}
+.songgb::before{
+    content: " ";
+    display: block;
+    position: absolute;
+    width:150px;
+    height:4px;
+    background: #036e26;
+    top: 40px;
+}
+.songgba{
+    position: relative;
+    margin-left: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.songgba::before{
+    content: " ";
+    display: block;
+    position: absolute;
+    width: 7px;
+    height:30px;
+    background: #036e26;
+    left: -20px;
+}
+.songgbb{
+    position: relative;
+    margin-top: 10px;
+}
+.songgbb::before{
+    content: " ";
+    display: block;
+    position: absolute;
+    width: 20px;
+    height:20px;
+    background-size: 100% 100%;
+    left: -22px;
+    background-image: url(../imager/home.jpg);
+}
+.songgbb a{
+   
+    font-weight: bold;
+    color: black;
+}
+

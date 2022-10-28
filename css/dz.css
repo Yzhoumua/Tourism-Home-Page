@@ -1,0 +1,68 @@
+.dznva{
+    width: 275px;
+    height: 185px;
+    background: #f3f1f2;
+}
+.dzbox{
+    height: 800px;
+}
+.dznvabox{
+    margin: 0 auto;
+    width: 240px;
+    height: 60px;
+    border-bottom: rgb(78, 74, 74) 1px dashed   ;
+}
+.dznvabox a{
+    display: block;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    line-height: 60px;
+}
+.dznvabox a:hover{
+    color: rgb(138, 40, 4);
+}
+.dztext{
+    width: 225px;
+    height:25px;
+}
+.dztextb{
+    width: 550px;
+    height: 25px;
+}
+.dzdzbox{
+    border-bottom: solid 1px rgb(185, 179, 179);
+    margin-top: 20px;
+    height: 145px;
+}
+.dzxw{
+    color: rgb(22, 196, 196);
+}
+.dztion{
+    padding-top: 10px;
+    font-size: 12px;
+}
+.dzjs{
+    padding-top: 10px;
+    font-size: 12px;
+}
+.dzgd{
+
+    margin-top: 20px;;
+}
+
+.dzlb{
+    width: 800px;
+    height: 20px;;
+    margin: 10px 0;
+    font-size: 12px;
+}
+.dzlb .dzlblf a{
+    color: black;
+}
+.dzlb .dzlblf a:hover{
+    color: rgb(170, 75, 12);
+}
+.dzlb .dzlblf{
+    list-style: outside;
+}
